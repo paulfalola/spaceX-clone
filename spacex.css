@@ -41,13 +41,3 @@ font-weight: 500;
 .btn:hover {
     opacity: 0.9;
 }
-*/ spacex_1 */
-.spacex_1 {
-  width: 100%;
-  height: 400px;
-  background: url('./img/spacex-pic-1.jpg')
-  no-repeat center center/cover;
-  display: flex;
-
-}
-.
